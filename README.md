@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I am Muhammad Ibrahim
 
-<!--
-**mibrahim-official-dev/mibrahim-official-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WordPress Developer and Team Lead at Developers Hub, Islamabad.
 
-Here are some ideas to get you started:
+I build fast, responsive, and user-friendly WordPress and WooCommerce websites. I lead a small team to deliver clean, high quality work on time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I do:
+- WordPress development, custom themes and plugins
+- WooCommerce stores, checkout and payments
+- Website speed, SEO, and security
+- Elementor, PHP, JavaScript, HTML, CSS
+
+I am currently building a complete WooCommerce demo store, with a custom theme and custom plugin, to show my work here on GitHub.
+
+Contact: mibrahim.officialdev@gmail.com
